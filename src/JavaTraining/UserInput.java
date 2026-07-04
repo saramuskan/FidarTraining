@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class UserInput {
 
 	public static void main(String[] args) {
-		System.out.println("Taking input from input");
+		System.out.println("Taking input from user");
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("enter number 1");
